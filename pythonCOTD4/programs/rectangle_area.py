@@ -1,6 +1,6 @@
 class Rectangle:
     
-    def set_rectangle(self, l, w):
+    def __init__(self, l, w):
         self.length = l
         self.width = w
 
