@@ -1,11 +1,9 @@
-'''Unable to write working test for class will come back to ammend code
-'''
-from programs import rectangle_area
 import pytest
+from programs import rectangle_area
 
-class Rectangle:
-
-    def test_area(self):
-        assert rectangle_area.Rectangle(2,10) ==10
+def test_area():
+    for tests in range(20
+    test_rect = rectangle_area.Rectangle(2, 7)
+    assert test_rect.area() ==10
     
    
