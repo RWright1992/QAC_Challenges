@@ -8,4 +8,4 @@ def seven_notfive(int1, int2):
     return (','.join(emptlist))
 
 
-print(seven_notfive(2000, 3200))
+#print(seven_notfive(2000, 3200))
